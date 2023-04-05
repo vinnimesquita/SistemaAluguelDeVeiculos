@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.exe
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.deps.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\bin\Debug\net5.0\ExeComInterfaces.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\refint\ExeComInterfaces.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ExeComInterfaces.genruntimeconfig.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 12 - Interfaces\2-ExeComInterfaces\ExeComInterfaces\obj\Debug\net5.0\ref\ExeComInterfaces.dll
